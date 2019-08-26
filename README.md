@@ -2,7 +2,7 @@
 
 Your Names: Thy H. Nguyen
 
-            _____________________
+           
             
 Google Doc Link: https://docs.google.com/document/d/1j9qImftudTx3cxGTaXJ-rDb34OGDVKlbPD0SX47MZYk/edit
 
