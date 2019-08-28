@@ -1,8 +1,8 @@
 ######################################################################
 # Author: Thy H. Nguyen
-
+#           Jeremy Campbell
 # username: nguyent2
-#
+#           campbellj
 # Purpose: Designed to compute the total chocolate desired by the user
 #
 ######################################################################
